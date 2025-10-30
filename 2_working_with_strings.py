@@ -107,8 +107,8 @@ phrase3 = "Supercagifragilstic"
 # sentence = "Python is fun to learn"
 
 # # .split(): Splits the string into a list of words
-# words = sentence.split()
-# print("Split result:", words)
+words = sentence.split()
+print("Split result:", words)
 
 # # .format(): Allows inserting values into strings using {}
 # name = "Marvin"
